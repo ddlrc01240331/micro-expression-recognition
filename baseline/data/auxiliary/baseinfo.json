@@ -1,0 +1,1787 @@
+[
+    {
+        "label": "happiness",
+        "path": "sub01/EP02_01f",
+        "OnsetFrame": "46",
+        "ApexFrame": "59",
+        "OffsetFrame": "86"
+    },
+    {
+        "label": "others",
+        "path": "sub01/EP03_02",
+        "OnsetFrame": "131",
+        "ApexFrame": "139",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "others",
+        "path": "sub01/EP04_02",
+        "OnsetFrame": "21",
+        "ApexFrame": "54",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "others",
+        "path": "sub01/EP04_03",
+        "OnsetFrame": "31",
+        "ApexFrame": "41",
+        "OffsetFrame": "56"
+    },
+    {
+        "label": "others",
+        "path": "sub01/EP04_04",
+        "OnsetFrame": "23",
+        "ApexFrame": "49",
+        "OffsetFrame": "66"
+    },
+    {
+        "label": "others",
+        "path": "sub01/EP19_01",
+        "OnsetFrame": "26",
+        "ApexFrame": "49",
+        "OffsetFrame": "66"
+    },
+    {
+        "label": "others",
+        "path": "sub01/EP19_03f",
+        "OnsetFrame": "81",
+        "ApexFrame": "96",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "disgust",
+        "path": "sub01/EP19_05f",
+        "OnsetFrame": "396",
+        "ApexFrame": "416",
+        "OffsetFrame": "446"
+    },
+    {
+        "label": "disgust",
+        "path": "sub01/EP19_06f",
+        "OnsetFrame": "36",
+        "ApexFrame": "71",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "repression",
+        "path": "sub02/EP01_11f",
+        "OnsetFrame": "46",
+        "ApexFrame": "91",
+        "OffsetFrame": "96"
+    },
+    {
+        "label": "repression",
+        "path": "sub02/EP02_04f",
+        "OnsetFrame": "31",
+        "ApexFrame": "79",
+        "OffsetFrame": "141"
+    },
+    {
+        "label": "repression",
+        "path": "sub02/EP03_02f",
+        "OnsetFrame": "16",
+        "ApexFrame": "81",
+        "OffsetFrame": "136"
+    },
+    {
+        "label": "repression",
+        "path": "sub02/EP06_01f",
+        "OnsetFrame": "56",
+        "ApexFrame": "121",
+        "OffsetFrame": "155"
+    },
+    {
+        "label": "repression",
+        "path": "sub02/EP06_02f",
+        "OnsetFrame": "36",
+        "ApexFrame": "64",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "others",
+        "path": "sub02/EP08_04",
+        "OnsetFrame": "16",
+        "ApexFrame": "69",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "happiness",
+        "path": "sub02/EP09_01",
+        "OnsetFrame": "26",
+        "ApexFrame": "56",
+        "OffsetFrame": "125"
+    },
+    {
+        "label": "others",
+        "path": "sub02/EP09_06f",
+        "OnsetFrame": "11",
+        "ApexFrame": "49",
+        "OffsetFrame": "151"
+    },
+    {
+        "label": "others",
+        "path": "sub02/EP09_10",
+        "OnsetFrame": "26",
+        "ApexFrame": "36",
+        "OffsetFrame": "66"
+    },
+    {
+        "label": "surprise",
+        "path": "sub02/EP11_01",
+        "OnsetFrame": "16",
+        "ApexFrame": "69",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "surprise",
+        "path": "sub02/EP13_04",
+        "OnsetFrame": "21",
+        "ApexFrame": "51",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "surprise",
+        "path": "sub02/EP14_01",
+        "OnsetFrame": "81",
+        "ApexFrame": "114",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "others",
+        "path": "sub02/EP15_04",
+        "OnsetFrame": "26",
+        "ApexFrame": "66",
+        "OffsetFrame": "96"
+    },
+    {
+        "label": "surprise",
+        "path": "sub03/EP01_2",
+        "OnsetFrame": "51",
+        "ApexFrame": "69",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "others",
+        "path": "sub03/EP07_03",
+        "OnsetFrame": "16",
+        "ApexFrame": "46",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "disgust",
+        "path": "sub03/EP07_04",
+        "OnsetFrame": "21",
+        "ApexFrame": "81",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "others",
+        "path": "sub03/EP08_1",
+        "OnsetFrame": "11",
+        "ApexFrame": "44",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "disgust",
+        "path": "sub03/EP09_03",
+        "OnsetFrame": "61",
+        "ApexFrame": "76",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "disgust",
+        "path": "sub03/EP18_06",
+        "OnsetFrame": "26",
+        "ApexFrame": "81",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "disgust",
+        "path": "sub03/EP19_08",
+        "OnsetFrame": "101",
+        "ApexFrame": "121",
+        "OffsetFrame": "141"
+    },
+    {
+        "label": "disgust",
+        "path": "sub04/EP12_01f",
+        "OnsetFrame": "261",
+        "ApexFrame": "/",
+        "OffsetFrame": "321"
+    },
+    {
+        "label": "disgust",
+        "path": "sub04/EP12_02f",
+        "OnsetFrame": "356",
+        "ApexFrame": "387",
+        "OffsetFrame": "406"
+    },
+    {
+        "label": "others",
+        "path": "sub04/EP13_02f",
+        "OnsetFrame": "51",
+        "ApexFrame": "81",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "disgust",
+        "path": "sub04/EP13_06f",
+        "OnsetFrame": "71",
+        "ApexFrame": "108",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "others",
+        "path": "sub04/EP19_01f",
+        "OnsetFrame": "191",
+        "ApexFrame": "209",
+        "OffsetFrame": "226"
+    },
+    {
+        "label": "surprise",
+        "path": "sub05/EP02_07",
+        "OnsetFrame": "36",
+        "ApexFrame": "66",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "happiness",
+        "path": "sub05/EP03_01",
+        "OnsetFrame": "41",
+        "ApexFrame": "81",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "surprise",
+        "path": "sub05/EP03_06",
+        "OnsetFrame": "33",
+        "ApexFrame": "66",
+        "OffsetFrame": "83"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP03_07",
+        "OnsetFrame": "41",
+        "ApexFrame": "64",
+        "OffsetFrame": "83"
+    },
+    {
+        "label": "surprise",
+        "path": "sub05/EP04_05",
+        "OnsetFrame": "16",
+        "ApexFrame": "44",
+        "OffsetFrame": "66"
+    },
+    {
+        "label": "surprise",
+        "path": "sub05/EP04_06",
+        "OnsetFrame": "6",
+        "ApexFrame": "49",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP05_03",
+        "OnsetFrame": "51",
+        "ApexFrame": "71",
+        "OffsetFrame": "141"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP05_09",
+        "OnsetFrame": "49",
+        "ApexFrame": "94",
+        "OffsetFrame": "136"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP06_10",
+        "OnsetFrame": "85",
+        "ApexFrame": "116",
+        "OffsetFrame": "136"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP07_01",
+        "OnsetFrame": "49",
+        "ApexFrame": "66",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP08_05",
+        "OnsetFrame": "6",
+        "ApexFrame": "39",
+        "OffsetFrame": "71"
+    },
+    {
+        "label": "disgust",
+        "path": "sub05/EP09_05f",
+        "OnsetFrame": "69",
+        "ApexFrame": "69",
+        "OffsetFrame": "123"
+    },
+    {
+        "label": "surprise",
+        "path": "sub05/EP12_03f",
+        "OnsetFrame": "11",
+        "ApexFrame": "36",
+        "OffsetFrame": "61"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP12_06",
+        "OnsetFrame": "46",
+        "ApexFrame": "76",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP13_04f",
+        "OnsetFrame": "36",
+        "ApexFrame": "69",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP13_06",
+        "OnsetFrame": "16",
+        "ApexFrame": "46",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP16_03f",
+        "OnsetFrame": "39",
+        "ApexFrame": "81",
+        "OffsetFrame": "138"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP16_04f",
+        "OnsetFrame": "141",
+        "ApexFrame": "181",
+        "OffsetFrame": "181"
+    },
+    {
+        "label": "others",
+        "path": "sub05/EP19_03",
+        "OnsetFrame": "6",
+        "ApexFrame": "29",
+        "OffsetFrame": "58"
+    },
+    {
+        "label": "happiness",
+        "path": "sub06/EP01_01",
+        "OnsetFrame": "81",
+        "ApexFrame": "111",
+        "OffsetFrame": "136"
+    },
+    {
+        "label": "surprise",
+        "path": "sub06/EP02_31",
+        "OnsetFrame": "99",
+        "ApexFrame": "131",
+        "OffsetFrame": "148"
+    },
+    {
+        "label": "others",
+        "path": "sub06/EP10_08",
+        "OnsetFrame": "116",
+        "ApexFrame": "139",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "surprise",
+        "path": "sub06/EP15_02",
+        "OnsetFrame": "56",
+        "ApexFrame": "79",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "disgust",
+        "path": "sub06/EP16_05",
+        "OnsetFrame": "94",
+        "ApexFrame": "114",
+        "OffsetFrame": "151"
+    },
+    {
+        "label": "disgust",
+        "path": "sub07/EP01_01",
+        "OnsetFrame": "79",
+        "ApexFrame": "109",
+        "OffsetFrame": "156"
+    },
+    {
+        "label": "others",
+        "path": "sub07/EP03_04",
+        "OnsetFrame": "11",
+        "ApexFrame": "49",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "others",
+        "path": "sub07/EP06_01",
+        "OnsetFrame": "15",
+        "ApexFrame": "49",
+        "OffsetFrame": "68"
+    },
+    {
+        "label": "disgust",
+        "path": "sub07/EP06_02_01",
+        "OnsetFrame": "11",
+        "ApexFrame": "66",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "disgust",
+        "path": "sub07/EP06_02_02",
+        "OnsetFrame": "36",
+        "ApexFrame": "81",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "disgust",
+        "path": "sub07/EP08_02",
+        "OnsetFrame": "141",
+        "ApexFrame": "174",
+        "OffsetFrame": "191"
+    },
+    {
+        "label": "disgust",
+        "path": "sub07/EP15_01",
+        "OnsetFrame": "36",
+        "ApexFrame": "64",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "others",
+        "path": "sub07/EP18_01",
+        "OnsetFrame": "6",
+        "ApexFrame": "24",
+        "OffsetFrame": "51"
+    },
+    {
+        "label": "others",
+        "path": "sub07/EP18_03",
+        "OnsetFrame": "11",
+        "ApexFrame": "54",
+        "OffsetFrame": "96"
+    },
+    {
+        "label": "others",
+        "path": "sub08/EP12_07f",
+        "OnsetFrame": "26",
+        "ApexFrame": "74",
+        "OffsetFrame": "118"
+    },
+    {
+        "label": "others",
+        "path": "sub08/EP12_08f",
+        "OnsetFrame": "71",
+        "ApexFrame": "106",
+        "OffsetFrame": "170"
+    },
+    {
+        "label": "repression",
+        "path": "sub08/EP13_01f",
+        "OnsetFrame": "49",
+        "ApexFrame": "86",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "happiness",
+        "path": "sub09/EP02_01f",
+        "OnsetFrame": "21",
+        "ApexFrame": "74",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "others",
+        "path": "sub09/EP05_02",
+        "OnsetFrame": "66",
+        "ApexFrame": "119",
+        "OffsetFrame": "196"
+    },
+    {
+        "label": "others",
+        "path": "sub09/EP05_03",
+        "OnsetFrame": "91",
+        "ApexFrame": "116",
+        "OffsetFrame": "156"
+    },
+    {
+        "label": "happiness",
+        "path": "sub09/EP05_05",
+        "OnsetFrame": "46",
+        "ApexFrame": "84",
+        "OffsetFrame": "96"
+    },
+    {
+        "label": "repression",
+        "path": "sub09/EP06_01f",
+        "OnsetFrame": "66",
+        "ApexFrame": "144",
+        "OffsetFrame": "186"
+    },
+    {
+        "label": "happiness",
+        "path": "sub09/EP06_02f",
+        "OnsetFrame": "36",
+        "ApexFrame": "101",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "repression",
+        "path": "sub09/EP09_04",
+        "OnsetFrame": "26",
+        "ApexFrame": "71",
+        "OffsetFrame": "146"
+    },
+    {
+        "label": "repression",
+        "path": "sub09/EP09_05",
+        "OnsetFrame": "26",
+        "ApexFrame": "81",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "happiness",
+        "path": "sub09/EP09f",
+        "OnsetFrame": "26",
+        "ApexFrame": "64",
+        "OffsetFrame": "86"
+    },
+    {
+        "label": "repression",
+        "path": "sub09/EP13_01",
+        "OnsetFrame": "31",
+        "ApexFrame": "74",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "fear",
+        "path": "sub09/EP13_02",
+        "OnsetFrame": "71",
+        "ApexFrame": "96",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "happiness",
+        "path": "sub09/EP15_05",
+        "OnsetFrame": "56",
+        "ApexFrame": "91",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "repression",
+        "path": "sub09/EP17_08",
+        "OnsetFrame": "6",
+        "ApexFrame": "41",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "others",
+        "path": "sub09/EP18_03",
+        "OnsetFrame": "11",
+        "ApexFrame": "39",
+        "OffsetFrame": "81"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP06_01f",
+        "OnsetFrame": "11",
+        "ApexFrame": "54",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP08_01f",
+        "OnsetFrame": "76",
+        "ApexFrame": "114",
+        "OffsetFrame": "141"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP10_01f",
+        "OnsetFrame": "111",
+        "ApexFrame": "136",
+        "OffsetFrame": "171"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP11_01",
+        "OnsetFrame": "31",
+        "ApexFrame": "64",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP11_01f",
+        "OnsetFrame": "36",
+        "ApexFrame": "64",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP12_02f",
+        "OnsetFrame": "26",
+        "ApexFrame": "54",
+        "OffsetFrame": "86"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP12_03f",
+        "OnsetFrame": "26",
+        "ApexFrame": "81",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP12_04",
+        "OnsetFrame": "61",
+        "ApexFrame": "101",
+        "OffsetFrame": "146"
+    },
+    {
+        "label": "fear",
+        "path": "sub10/EP13_01",
+        "OnsetFrame": "11",
+        "ApexFrame": "59",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP13_02f",
+        "OnsetFrame": "41",
+        "ApexFrame": "109",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP13_03f",
+        "OnsetFrame": "11",
+        "ApexFrame": "46",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP16_02f",
+        "OnsetFrame": "21",
+        "ApexFrame": "64",
+        "OffsetFrame": "110"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP18_01f",
+        "OnsetFrame": "11",
+        "ApexFrame": "44",
+        "OffsetFrame": "73"
+    },
+    {
+        "label": "others",
+        "path": "sub10/EP19_04f",
+        "OnsetFrame": "81",
+        "ApexFrame": "84",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "others",
+        "path": "sub11/EP02_06f",
+        "OnsetFrame": "71",
+        "ApexFrame": "96",
+        "OffsetFrame": "116"
+    },
+    {
+        "label": "disgust",
+        "path": "sub11/EP08_01f",
+        "OnsetFrame": "96",
+        "ApexFrame": "121",
+        "OffsetFrame": "146"
+    },
+    {
+        "label": "others",
+        "path": "sub11/EP12_03f",
+        "OnsetFrame": "91",
+        "ApexFrame": "141",
+        "OffsetFrame": "185"
+    },
+    {
+        "label": "disgust",
+        "path": "sub11/EP13_02f",
+        "OnsetFrame": "51",
+        "ApexFrame": "111",
+        "OffsetFrame": "141"
+    },
+    {
+        "label": "disgust",
+        "path": "sub11/EP13_03f",
+        "OnsetFrame": "6",
+        "ApexFrame": "49",
+        "OffsetFrame": "81"
+    },
+    {
+        "label": "disgust",
+        "path": "sub11/EP13_05f",
+        "OnsetFrame": "16",
+        "ApexFrame": "61",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "others",
+        "path": "sub11/EP15_01f",
+        "OnsetFrame": "56",
+        "ApexFrame": "89",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "others",
+        "path": "sub11/EP15_04f",
+        "OnsetFrame": "61",
+        "ApexFrame": "76",
+        "OffsetFrame": "96"
+    },
+    {
+        "label": "others",
+        "path": "sub11/EP18_03f",
+        "OnsetFrame": "56",
+        "ApexFrame": "106",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "others",
+        "path": "sub11/EP19_03f",
+        "OnsetFrame": "11",
+        "ApexFrame": "94",
+        "OffsetFrame": "151"
+    },
+    {
+        "label": "disgust",
+        "path": "sub12/EP01_02",
+        "OnsetFrame": "31",
+        "ApexFrame": "99",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "surprise",
+        "path": "sub12/EP02_05",
+        "OnsetFrame": "41",
+        "ApexFrame": "61",
+        "OffsetFrame": "140"
+    },
+    {
+        "label": "others",
+        "path": "sub12/EP03_02",
+        "OnsetFrame": "26",
+        "ApexFrame": "59",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "happiness",
+        "path": "sub12/EP03_04",
+        "OnsetFrame": "60",
+        "ApexFrame": "129",
+        "OffsetFrame": "156"
+    },
+    {
+        "label": "disgust",
+        "path": "sub12/EP04_16",
+        "OnsetFrame": "36",
+        "ApexFrame": "56",
+        "OffsetFrame": "135"
+    },
+    {
+        "label": "surprise",
+        "path": "sub12/EP06_06",
+        "OnsetFrame": "36",
+        "ApexFrame": "76",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "surprise",
+        "path": "sub12/EP08_01",
+        "OnsetFrame": "46",
+        "ApexFrame": "81",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "surprise",
+        "path": "sub12/EP08_03",
+        "OnsetFrame": "76",
+        "ApexFrame": "114",
+        "OffsetFrame": "156"
+    },
+    {
+        "label": "happiness",
+        "path": "sub12/EP08_07",
+        "OnsetFrame": "111",
+        "ApexFrame": "134",
+        "OffsetFrame": "186"
+    },
+    {
+        "label": "disgust",
+        "path": "sub12/EP09_02",
+        "OnsetFrame": "16",
+        "ApexFrame": "59",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "disgust",
+        "path": "sub12/EP09_06",
+        "OnsetFrame": "66",
+        "ApexFrame": "111",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "disgust",
+        "path": "sub12/EP16_02",
+        "OnsetFrame": "136",
+        "ApexFrame": "189",
+        "OffsetFrame": "226"
+    },
+    {
+        "label": "others",
+        "path": "sub13/EP01_01",
+        "OnsetFrame": "76",
+        "ApexFrame": "111",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "others",
+        "path": "sub13/EP01_02",
+        "OnsetFrame": "76",
+        "ApexFrame": "101",
+        "OffsetFrame": "116"
+    },
+    {
+        "label": "others",
+        "path": "sub13/EP02_02",
+        "OnsetFrame": "11",
+        "ApexFrame": "34",
+        "OffsetFrame": "68"
+    },
+    {
+        "label": "others",
+        "path": "sub13/EP02_03",
+        "OnsetFrame": "26",
+        "ApexFrame": "59",
+        "OffsetFrame": "66"
+    },
+    {
+        "label": "happiness",
+        "path": "sub13/EP03_01",
+        "OnsetFrame": "31",
+        "ApexFrame": "86",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "others",
+        "path": "sub13/EP08_01",
+        "OnsetFrame": "54",
+        "ApexFrame": "81",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "happiness",
+        "path": "sub13/EP09_10",
+        "OnsetFrame": "51",
+        "ApexFrame": "76",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "others",
+        "path": "sub13/EP12_01",
+        "OnsetFrame": "6",
+        "ApexFrame": "41",
+        "OffsetFrame": "61"
+    },
+    {
+        "label": "others",
+        "path": "sub14/EP04_04f",
+        "OnsetFrame": "11",
+        "ApexFrame": "44",
+        "OffsetFrame": "86"
+    },
+    {
+        "label": "happiness",
+        "path": "sub14/EP09_03",
+        "OnsetFrame": "6",
+        "ApexFrame": "29",
+        "OffsetFrame": "41"
+    },
+    {
+        "label": "happiness",
+        "path": "sub14/EP09_04",
+        "OnsetFrame": "21",
+        "ApexFrame": "71",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "happiness",
+        "path": "sub14/EP09_06",
+        "OnsetFrame": "11",
+        "ApexFrame": "59",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "happiness",
+        "path": "sub15/EP03_02",
+        "OnsetFrame": "16",
+        "ApexFrame": "49",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "surprise",
+        "path": "sub15/EP04_02",
+        "OnsetFrame": "21",
+        "ApexFrame": "46",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "disgust",
+        "path": "sub15/EP08_02",
+        "OnsetFrame": "21",
+        "ApexFrame": "54",
+        "OffsetFrame": "78"
+    },
+    {
+        "label": "happiness",
+        "path": "sub16/EP01_05",
+        "OnsetFrame": "66",
+        "ApexFrame": "106",
+        "OffsetFrame": "156"
+    },
+    {
+        "label": "repression",
+        "path": "sub16/EP01_08",
+        "OnsetFrame": "73",
+        "ApexFrame": "94",
+        "OffsetFrame": "110"
+    },
+    {
+        "label": "others",
+        "path": "sub16/EP01_09f",
+        "OnsetFrame": "51",
+        "ApexFrame": "76",
+        "OffsetFrame": "163"
+    },
+    {
+        "label": "happiness",
+        "path": "sub16/EP04_02f",
+        "OnsetFrame": "181",
+        "ApexFrame": "269",
+        "OffsetFrame": "271"
+    },
+    {
+        "label": "happiness",
+        "path": "sub17/EP01_06",
+        "OnsetFrame": "81",
+        "ApexFrame": "86",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "surprise",
+        "path": "sub17/EP01_13",
+        "OnsetFrame": "76",
+        "ApexFrame": "134",
+        "OffsetFrame": "166"
+    },
+    {
+        "label": "happiness",
+        "path": "sub17/EP01_15",
+        "OnsetFrame": "86",
+        "ApexFrame": "101",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP02_01",
+        "OnsetFrame": "91",
+        "ApexFrame": "119",
+        "OffsetFrame": "136"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP02_03",
+        "OnsetFrame": "81",
+        "ApexFrame": "109",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP02_11",
+        "OnsetFrame": "161",
+        "ApexFrame": "181",
+        "OffsetFrame": "210"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP02_18f",
+        "OnsetFrame": "91",
+        "ApexFrame": "134",
+        "OffsetFrame": "181"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP03_02",
+        "OnsetFrame": "118",
+        "ApexFrame": "139",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "happiness",
+        "path": "sub17/EP03_09",
+        "OnsetFrame": "96",
+        "ApexFrame": "132",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "happiness",
+        "path": "sub17/EP05_02",
+        "OnsetFrame": "25",
+        "ApexFrame": "91",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "happiness",
+        "path": "sub17/EP05_03",
+        "OnsetFrame": "21",
+        "ApexFrame": "56",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP05_03f",
+        "OnsetFrame": "11",
+        "ApexFrame": "59",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP05_04",
+        "OnsetFrame": "6",
+        "ApexFrame": "39",
+        "OffsetFrame": "71"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP05_09",
+        "OnsetFrame": "121",
+        "ApexFrame": "144",
+        "OffsetFrame": "196"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP05_10",
+        "OnsetFrame": "111",
+        "ApexFrame": "129",
+        "OffsetFrame": "151"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP06_04",
+        "OnsetFrame": "71",
+        "ApexFrame": "91",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "happiness",
+        "path": "sub17/EP06_07",
+        "OnsetFrame": "216",
+        "ApexFrame": "225",
+        "OffsetFrame": "246"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP06_08",
+        "OnsetFrame": "156",
+        "ApexFrame": "194",
+        "OffsetFrame": "231"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP07_01",
+        "OnsetFrame": "21",
+        "ApexFrame": "71",
+        "OffsetFrame": "115"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP08_02",
+        "OnsetFrame": "21",
+        "ApexFrame": "66",
+        "OffsetFrame": "88"
+    },
+    {
+        "label": "others",
+        "path": "sub17/EP08_03",
+        "OnsetFrame": "51",
+        "ApexFrame": "69",
+        "OffsetFrame": "84"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP10_06",
+        "OnsetFrame": "104",
+        "ApexFrame": "121",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP11_01",
+        "OnsetFrame": "9",
+        "ApexFrame": "31",
+        "OffsetFrame": "53"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP11_02",
+        "OnsetFrame": "36",
+        "ApexFrame": "81",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP12_03",
+        "OnsetFrame": "131",
+        "ApexFrame": "156",
+        "OffsetFrame": "184"
+    },
+    {
+        "label": "others",
+        "path": "sub17/EP13_01",
+        "OnsetFrame": "146",
+        "ApexFrame": "164",
+        "OffsetFrame": "191"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP13_03",
+        "OnsetFrame": "51",
+        "ApexFrame": "79",
+        "OffsetFrame": "136"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP13_04",
+        "OnsetFrame": "86",
+        "ApexFrame": "104",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP13_06",
+        "OnsetFrame": "86",
+        "ApexFrame": "109",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "happiness",
+        "path": "sub17/EP13_09",
+        "OnsetFrame": "6",
+        "ApexFrame": "46",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "sadness",
+        "path": "sub17/EP15_01",
+        "OnsetFrame": "81",
+        "ApexFrame": "104",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "sadness",
+        "path": "sub17/EP15_03",
+        "OnsetFrame": "319",
+        "ApexFrame": "338",
+        "OffsetFrame": "356"
+    },
+    {
+        "label": "repression",
+        "path": "sub17/EP15_04",
+        "OnsetFrame": "109",
+        "ApexFrame": "131",
+        "OffsetFrame": "185"
+    },
+    {
+        "label": "others",
+        "path": "sub17/EP15_05",
+        "OnsetFrame": "21",
+        "ApexFrame": "49",
+        "OffsetFrame": "66"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP16_01f",
+        "OnsetFrame": "8",
+        "ApexFrame": "29",
+        "OffsetFrame": "71"
+    },
+    {
+        "label": "disgust",
+        "path": "sub17/EP18_07",
+        "OnsetFrame": "36",
+        "ApexFrame": "69",
+        "OffsetFrame": "103"
+    },
+    {
+        "label": "others",
+        "path": "sub18/EP08_01",
+        "OnsetFrame": "111",
+        "ApexFrame": "139",
+        "OffsetFrame": "147"
+    },
+    {
+        "label": "others",
+        "path": "sub18/EP18_01",
+        "OnsetFrame": "66",
+        "ApexFrame": "91",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "others",
+        "path": "sub18/EP19_01",
+        "OnsetFrame": "95",
+        "ApexFrame": "121",
+        "OffsetFrame": "140"
+    },
+    {
+        "label": "happiness",
+        "path": "sub19/EP01_01f",
+        "OnsetFrame": "121",
+        "ApexFrame": "189",
+        "OffsetFrame": "220"
+    },
+    {
+        "label": "happiness",
+        "path": "sub19/EP01_02f",
+        "OnsetFrame": "36",
+        "ApexFrame": "61",
+        "OffsetFrame": "127"
+    },
+    {
+        "label": "surprise",
+        "path": "sub19/EP02_01",
+        "OnsetFrame": "91",
+        "ApexFrame": "119",
+        "OffsetFrame": "151"
+    },
+    {
+        "label": "surprise",
+        "path": "sub19/EP06_01f",
+        "OnsetFrame": "146",
+        "ApexFrame": "174",
+        "OffsetFrame": "201"
+    },
+    {
+        "label": "others",
+        "path": "sub19/EP06_02f",
+        "OnsetFrame": "211",
+        "ApexFrame": "264",
+        "OffsetFrame": "291"
+    },
+    {
+        "label": "happiness",
+        "path": "sub19/EP08_02",
+        "OnsetFrame": "76",
+        "ApexFrame": "119",
+        "OffsetFrame": "155"
+    },
+    {
+        "label": "others",
+        "path": "sub19/EP11_01f",
+        "OnsetFrame": "61",
+        "ApexFrame": "81",
+        "OffsetFrame": "116"
+    },
+    {
+        "label": "surprise",
+        "path": "sub19/EP11_04f",
+        "OnsetFrame": "76",
+        "ApexFrame": "96",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "disgust",
+        "path": "sub19/EP13_01",
+        "OnsetFrame": "71",
+        "ApexFrame": "104",
+        "OffsetFrame": "156"
+    },
+    {
+        "label": "others",
+        "path": "sub19/EP15_03f",
+        "OnsetFrame": "51",
+        "ApexFrame": "81",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "disgust",
+        "path": "sub19/EP16_01",
+        "OnsetFrame": "86",
+        "ApexFrame": "109",
+        "OffsetFrame": "136"
+    },
+    {
+        "label": "disgust",
+        "path": "sub19/EP16_02",
+        "OnsetFrame": "61",
+        "ApexFrame": "79",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "others",
+        "path": "sub19/EP19_01",
+        "OnsetFrame": "66",
+        "ApexFrame": "86",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "surprise",
+        "path": "sub19/EP19_02",
+        "OnsetFrame": "106",
+        "ApexFrame": "129",
+        "OffsetFrame": "151"
+    },
+    {
+        "label": "surprise",
+        "path": "sub19/EP19_03",
+        "OnsetFrame": "61",
+        "ApexFrame": "91",
+        "OffsetFrame": "116"
+    },
+    {
+        "label": "sadness",
+        "path": "sub19/EP19_04",
+        "OnsetFrame": "46",
+        "ApexFrame": "69",
+        "OffsetFrame": "86"
+    },
+    {
+        "label": "disgust",
+        "path": "sub20/EP01_03",
+        "OnsetFrame": "76",
+        "ApexFrame": "101",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP03_02",
+        "OnsetFrame": "45",
+        "ApexFrame": "74",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "disgust",
+        "path": "sub20/EP06_03",
+        "OnsetFrame": "31",
+        "ApexFrame": "49",
+        "OffsetFrame": "61"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP07_04",
+        "OnsetFrame": "96",
+        "ApexFrame": "116",
+        "OffsetFrame": "151"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP10_02",
+        "OnsetFrame": "131",
+        "ApexFrame": "166",
+        "OffsetFrame": "216"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP12_01",
+        "OnsetFrame": "41",
+        "ApexFrame": "104",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP13_02",
+        "OnsetFrame": "71",
+        "ApexFrame": "109",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP15_03f",
+        "OnsetFrame": "86",
+        "ApexFrame": "129",
+        "OffsetFrame": "181"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP16_01",
+        "OnsetFrame": "71",
+        "ApexFrame": "111",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP16_04",
+        "OnsetFrame": "81",
+        "ApexFrame": "106",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "others",
+        "path": "sub20/EP18_03",
+        "OnsetFrame": "48",
+        "ApexFrame": "90",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "others",
+        "path": "sub21/EP01_07",
+        "OnsetFrame": "6",
+        "ApexFrame": "21",
+        "OffsetFrame": "36"
+    },
+    {
+        "label": "repression",
+        "path": "sub21/EP05_02",
+        "OnsetFrame": "111",
+        "ApexFrame": "141",
+        "OffsetFrame": "206"
+    },
+    {
+        "label": "repression",
+        "path": "sub22/EP01_12",
+        "OnsetFrame": "50",
+        "ApexFrame": "119",
+        "OffsetFrame": "146"
+    },
+    {
+        "label": "repression",
+        "path": "sub22/EP13_08",
+        "OnsetFrame": "151",
+        "ApexFrame": "216",
+        "OffsetFrame": "256"
+    },
+    {
+        "label": "happiness",
+        "path": "sub23/EP02_01",
+        "OnsetFrame": "36",
+        "ApexFrame": "86",
+        "OffsetFrame": "130"
+    },
+    {
+        "label": "disgust",
+        "path": "sub23/EP03_14f",
+        "OnsetFrame": "51",
+        "ApexFrame": "91",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "repression",
+        "path": "sub23/EP04_03f",
+        "OnsetFrame": "16",
+        "ApexFrame": "91",
+        "OffsetFrame": "115"
+    },
+    {
+        "label": "repression",
+        "path": "sub23/EP05_24f",
+        "OnsetFrame": "106",
+        "ApexFrame": "141",
+        "OffsetFrame": "171"
+    },
+    {
+        "label": "disgust",
+        "path": "sub23/EP05_25f",
+        "OnsetFrame": "51",
+        "ApexFrame": "86",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "others",
+        "path": "sub23/EP07_01",
+        "OnsetFrame": "36",
+        "ApexFrame": "64",
+        "OffsetFrame": "96"
+    },
+    {
+        "label": "disgust",
+        "path": "sub23/EP12_02f",
+        "OnsetFrame": "46",
+        "ApexFrame": "84",
+        "OffsetFrame": "130"
+    },
+    {
+        "label": "disgust",
+        "path": "sub23/EP12_03",
+        "OnsetFrame": "86",
+        "ApexFrame": "129",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "others",
+        "path": "sub23/EP13_03",
+        "OnsetFrame": "36",
+        "ApexFrame": "56",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "repression",
+        "path": "sub23/EP13_04",
+        "OnsetFrame": "21",
+        "ApexFrame": "41",
+        "OffsetFrame": "86"
+    },
+    {
+        "label": "others",
+        "path": "sub23/EP13_07f",
+        "OnsetFrame": "56",
+        "ApexFrame": "64",
+        "OffsetFrame": "126"
+    },
+    {
+        "label": "others",
+        "path": "sub23/EP17_01",
+        "OnsetFrame": "81",
+        "ApexFrame": "114",
+        "OffsetFrame": "146"
+    },
+    {
+        "label": "disgust",
+        "path": "sub24/EP01_08",
+        "OnsetFrame": "33",
+        "ApexFrame": "69",
+        "OffsetFrame": "131"
+    },
+    {
+        "label": "disgust",
+        "path": "sub24/EP02_02f",
+        "OnsetFrame": "71",
+        "ApexFrame": "94",
+        "OffsetFrame": "106"
+    },
+    {
+        "label": "sadness",
+        "path": "sub24/EP07_01",
+        "OnsetFrame": "24",
+        "ApexFrame": "41",
+        "OffsetFrame": "66"
+    },
+    {
+        "label": "sadness",
+        "path": "sub24/EP07_04f",
+        "OnsetFrame": "4",
+        "ApexFrame": "24",
+        "OffsetFrame": "41"
+    },
+    {
+        "label": "others",
+        "path": "sub24/EP08_02",
+        "OnsetFrame": "121",
+        "ApexFrame": "156",
+        "OffsetFrame": "181"
+    },
+    {
+        "label": "others",
+        "path": "sub24/EP10_01f",
+        "OnsetFrame": "131",
+        "ApexFrame": "149",
+        "OffsetFrame": "154"
+    },
+    {
+        "label": "others",
+        "path": "sub24/EP10_02",
+        "OnsetFrame": "101",
+        "ApexFrame": "121",
+        "OffsetFrame": "136"
+    },
+    {
+        "label": "sadness",
+        "path": "sub24/EP10_03",
+        "OnsetFrame": "334",
+        "ApexFrame": "356",
+        "OffsetFrame": "376"
+    },
+    {
+        "label": "others",
+        "path": "sub24/EP12_01",
+        "OnsetFrame": "81",
+        "ApexFrame": "99",
+        "OffsetFrame": "121"
+    },
+    {
+        "label": "surprise",
+        "path": "sub24/EP18_03",
+        "OnsetFrame": "53",
+        "ApexFrame": "76",
+        "OffsetFrame": "88"
+    },
+    {
+        "label": "others",
+        "path": "sub25/EP03_01",
+        "OnsetFrame": "56",
+        "ApexFrame": "81",
+        "OffsetFrame": "116"
+    },
+    {
+        "label": "others",
+        "path": "sub25/EP03_02",
+        "OnsetFrame": "51",
+        "ApexFrame": "101",
+        "OffsetFrame": "134"
+    },
+    {
+        "label": "disgust",
+        "path": "sub25/EP09_02",
+        "OnsetFrame": "76",
+        "ApexFrame": "101",
+        "OffsetFrame": "111"
+    },
+    {
+        "label": "disgust",
+        "path": "sub25/EP10_01",
+        "OnsetFrame": "101",
+        "ApexFrame": "129",
+        "OffsetFrame": "176"
+    },
+    {
+        "label": "surprise",
+        "path": "sub25/EP10_10",
+        "OnsetFrame": "61",
+        "ApexFrame": "91",
+        "OffsetFrame": "158"
+    },
+    {
+        "label": "surprise",
+        "path": "sub25/EP12_01",
+        "OnsetFrame": "131",
+        "ApexFrame": "151",
+        "OffsetFrame": "186"
+    },
+    {
+        "label": "disgust",
+        "path": "sub25/EP18_04f",
+        "OnsetFrame": "76",
+        "ApexFrame": "116",
+        "OffsetFrame": "116"
+    },
+    {
+        "label": "happiness",
+        "path": "sub26/EP03_10",
+        "OnsetFrame": "116",
+        "ApexFrame": "149",
+        "OffsetFrame": "201"
+    },
+    {
+        "label": "others",
+        "path": "sub26/EP07_28",
+        "OnsetFrame": "31",
+        "ApexFrame": "51",
+        "OffsetFrame": "71"
+    },
+    {
+        "label": "others",
+        "path": "sub26/EP07_37",
+        "OnsetFrame": "92",
+        "ApexFrame": "119",
+        "OffsetFrame": "190"
+    },
+    {
+        "label": "others",
+        "path": "sub26/EP08_04",
+        "OnsetFrame": "31",
+        "ApexFrame": "79",
+        "OffsetFrame": "89"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP09_04",
+        "OnsetFrame": "31",
+        "ApexFrame": "56",
+        "OffsetFrame": "91"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP09_09",
+        "OnsetFrame": "46",
+        "ApexFrame": "76",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "others",
+        "path": "sub26/EP13_01",
+        "OnsetFrame": "4",
+        "ApexFrame": "29",
+        "OffsetFrame": "61"
+    },
+    {
+        "label": "happiness",
+        "path": "sub26/EP13_02",
+        "OnsetFrame": "32",
+        "ApexFrame": "54",
+        "OffsetFrame": "116"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP13_11",
+        "OnsetFrame": "20",
+        "ApexFrame": "59",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "sadness",
+        "path": "sub26/EP15_01",
+        "OnsetFrame": "42",
+        "ApexFrame": "61",
+        "OffsetFrame": "81"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP16_01",
+        "OnsetFrame": "26",
+        "ApexFrame": "54",
+        "OffsetFrame": "76"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP18_44",
+        "OnsetFrame": "11",
+        "ApexFrame": "36",
+        "OffsetFrame": "71"
+    },
+    {
+        "label": "others",
+        "path": "sub26/EP18_46",
+        "OnsetFrame": "31",
+        "ApexFrame": "46",
+        "OffsetFrame": "101"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP18_47",
+        "OnsetFrame": "6",
+        "ApexFrame": "49",
+        "OffsetFrame": "86"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP18_49",
+        "OnsetFrame": "16",
+        "ApexFrame": "54",
+        "OffsetFrame": "80"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP18_50",
+        "OnsetFrame": "78",
+        "ApexFrame": "99",
+        "OffsetFrame": "161"
+    },
+    {
+        "label": "disgust",
+        "path": "sub26/EP18_51",
+        "OnsetFrame": "21",
+        "ApexFrame": "64",
+        "OffsetFrame": "81"
+    }
+]
