@@ -16,7 +16,7 @@ def opt_parse():
                         help='test batchsize')
     parser.add_argument('--lr', '--learning-rate', default=2.5e-4, type=float,
                         metavar='LR', help='initial learning rate')
-    parser.add_argument('--momentum', default=0, type=float, metavar='M',
+    parser.add_argument('--momentum', default=0.9, type=float, metavar='M',
                         help='momentum')
     parser.add_argument('--weight-decay', '--wd', default=0, type=float,
                         metavar='W', help='weight decay (default: 0)')
@@ -30,12 +30,9 @@ def opt_parse():
     parser.add_argument('--sigma', type=float, default=1,
                         help='Gaussian sigma for mask')
     # Miscs
-    parser.add_argument('-c', '--checkpoint', default='checkpoint', type=str, metavar='PATH',
-                        help='path to save checkpoint (default: checkpoint)')
-    parser.add_argument('--resume', default='', type=str, metavar='PATH',
-                        help='path to latest checkpoint (default: none)')
+    parser.add_argument('-d', '--save_dir', default='checkpoint', type=str, metavar='PATH', help='path to save midterm parameters of model')
+    parser.add_argument('--resume_epoch', default='', type=str, metavar='PATH',
+                        help='path to epoch to be resumed, if set to latest, resume latest model saved')
     parser.add_argument('-e', '--evaluate', dest='evaluate', action='store_true',
                         help='evaluate model on validation set')
-    parser.add_argument('-d', '--debug', dest='debug', action='store_true',
-                        help='show intermediate results')
     return parser.parse_args()
