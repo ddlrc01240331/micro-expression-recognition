@@ -3,7 +3,7 @@ sys.path.insert(0, '../')
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms, utils
 import torchvision.transforms.functional as TF
-from utils.ImgUtils import show_landmarks
+from utils.ImgUtils import show_img, PaddingToSquare, CropFromHead
 from PIL import Image
 
 class SingleImgDataset(Dataset):
@@ -30,8 +30,8 @@ class SingleImgDataset(Dataset):
     def get_transforms(self, opt):
         transform_list = []
         # , transforms.CenterCrop(opt['resize'])
-        transform_list += [transforms.Resize(opt.resize, interpolation=2), transforms.RandomHorizontalFlip()]
-        transform_list += [transforms.ToTensor(), transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))]
+        transform_list += [PaddingToSquare(), transforms.Resize((opt.resize, opt.resize), interpolation=2) , transforms.RandomHorizontalFlip()]
+        # transform_list += [transforms.ToTensor(), transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))]
         return transforms.Compose(transform_list)
 
     def name(self):
@@ -51,3 +51,12 @@ def SingleImgDataLoader(opt, isTrain=None):
         shuffle=isTrain,
     )
     return dataloader
+
+# from prepare import img_root as IMG_ROOT
+# import argparse
+# parser = argparse.ArgumentParser(description='PyTorch Micro Expression Recognition')
+# parser.add_argument('-r', '--resize', dest='resize', type=int, default=128, help='resize img width to fixed shape')
+# parser = parser.parse_args()
+# s = SingleImgDataset('auxiliary/single_img_train.json', IMG_ROOT, parser)
+# data = s[0]
+# show_img(data['img'])
