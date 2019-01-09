@@ -1,0 +1,7726 @@
+[
+    {
+        "path": "sub01/EP02_01f/reg_img54.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img55.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img56.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img57.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img58.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img59.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img60.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img61.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img62.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP02_01f/reg_img63.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub01/EP03_02/reg_img134.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img135.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img136.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img137.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img138.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img139.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img140.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img141.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img142.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP03_02/reg_img143.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img54.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img55.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img56.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img57.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_02/reg_img58.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img36.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img37.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img38.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img39.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img40.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_03/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP04_04/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_01/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img91.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img92.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img93.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img94.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img95.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img96.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img97.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img98.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img99.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_03f/reg_img100.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img411.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img412.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img413.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img414.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img415.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img416.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img417.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img418.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img419.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_05f/reg_img420.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img66.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img67.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img68.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img69.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img70.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img71.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img72.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img73.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img74.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub01/EP19_06f/reg_img75.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img86.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img87.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img88.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img89.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img90.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img91.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img92.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img93.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img94.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP01_11f/reg_img95.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img74.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img75.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img76.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img77.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img78.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img79.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img80.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img81.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img82.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP02_04f/reg_img83.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img76.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img77.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img78.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img79.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img80.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img81.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img82.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img83.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img84.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP03_02f/reg_img85.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img116.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img117.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img118.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img119.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img120.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img121.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img122.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img123.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img124.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_01f/reg_img125.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img59.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img60.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img61.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img62.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img63.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img64.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img65.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img66.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img67.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP06_02f/reg_img68.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub02/EP08_04/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img69.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img70.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP08_04/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_01/reg_img51.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img52.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img53.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img54.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img55.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img56.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img57.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img58.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img59.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_01/reg_img60.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_06f/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img31.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img32.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img33.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img34.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img35.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img36.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img37.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img38.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img39.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP09_10/reg_img40.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP11_01/reg_img64.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img65.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img66.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img67.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img68.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img69.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img70.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img71.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img72.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP11_01/reg_img73.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img46.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img47.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img48.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img49.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img50.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img51.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img52.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img53.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img54.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP13_04/reg_img55.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img109.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img110.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img111.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img112.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img113.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img114.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img115.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img116.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img117.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP14_01/reg_img118.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub02/EP15_04/reg_img61.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img62.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img63.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img69.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub02/EP15_04/reg_img70.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP01_2/reg_img64.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img65.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img66.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img67.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img68.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img69.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img70.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img71.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img72.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP01_2/reg_img73.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub03/EP07_03/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_03/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP07_04/reg_img76.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img77.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img78.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img79.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img80.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img81.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img82.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img83.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img84.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP07_04/reg_img85.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP08_1/reg_img39.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img40.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP08_1/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub03/EP09_03/reg_img71.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img72.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img73.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img74.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img75.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img76.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img77.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img78.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img79.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP09_03/reg_img80.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img76.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img77.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img78.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img79.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img80.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img81.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img82.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img83.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img84.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP18_06/reg_img85.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img116.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img117.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img118.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img119.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img120.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img121.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img122.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img123.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img124.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub03/EP19_08/reg_img125.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img286.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img287.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img288.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img289.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img290.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img291.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img292.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img293.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img294.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_01f/reg_img295.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img382.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img383.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img384.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img385.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img386.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img387.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img388.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img389.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img390.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP12_02f/reg_img391.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img81.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img82.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img83.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_02f/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img103.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img104.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img105.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img109.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img110.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img111.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP13_06f/reg_img112.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img204.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img205.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img206.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img207.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img208.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img209.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img210.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img211.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img212.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub04/EP19_01f/reg_img213.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP02_07/reg_img61.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img62.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img63.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img64.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img65.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img66.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img67.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img68.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img69.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP02_07/reg_img70.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_01/reg_img76.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img77.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img78.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img79.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img80.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img81.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img82.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img83.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img84.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_01/reg_img85.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub05/EP03_06/reg_img61.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img62.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img63.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img64.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img65.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img66.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img67.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img68.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img69.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_06/reg_img70.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP03_07/reg_img59.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img60.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img61.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img62.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img63.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP03_07/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP04_05/reg_img39.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img40.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img41.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img42.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img43.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img44.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img45.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img46.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img47.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_05/reg_img48.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img44.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img45.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img46.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img47.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img48.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img49.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img50.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img51.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img52.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP04_06/reg_img53.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP05_03/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img69.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img70.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img74.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_03/reg_img75.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img89.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img90.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img91.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img92.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img93.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img94.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img95.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img96.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img97.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP05_09/reg_img98.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img111.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img112.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img113.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img114.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img115.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img116.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img117.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img118.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img119.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP06_10/reg_img120.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img61.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img62.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img63.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img69.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP07_01/reg_img70.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img34.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img35.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img36.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img37.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img38.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img39.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img40.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP08_05/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP09_05f/reg_img69.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub05/EP09_05f/reg_img70.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub05/EP09_05f/reg_img71.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub05/EP09_05f/reg_img72.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub05/EP09_05f/reg_img73.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img31.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img32.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img33.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img34.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img35.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img36.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img37.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img38.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img39.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_03f/reg_img40.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub05/EP12_06/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img74.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img75.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP12_06/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img69.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img70.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_04f/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP13_06/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img81.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img82.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img83.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_03f/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_04f/reg_img176.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_04f/reg_img177.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_04f/reg_img178.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_04f/reg_img179.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_04f/reg_img180.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP16_04f/reg_img181.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img24.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img25.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img26.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img27.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img28.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img29.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img30.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img31.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img32.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub05/EP19_03/reg_img33.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP01_01/reg_img106.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img107.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img108.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img109.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img110.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img111.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img112.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img113.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img114.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP01_01/reg_img115.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub06/EP02_31/reg_img126.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img127.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img128.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img129.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img130.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img131.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img132.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img133.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img134.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP02_31/reg_img135.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP10_08/reg_img134.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img135.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img136.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img137.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img138.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img139.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img140.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img141.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img142.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP10_08/reg_img143.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub06/EP15_02/reg_img74.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img75.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img76.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img77.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img78.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img79.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img80.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img81.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img82.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP15_02/reg_img83.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub06/EP16_05/reg_img109.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img110.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img111.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img112.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img113.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img114.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img115.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img116.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img117.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub06/EP16_05/reg_img118.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img104.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img105.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img109.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img110.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img111.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img112.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP01_01/reg_img113.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP03_04/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP03_04/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_01/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img61.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img62.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img63.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img64.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img65.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img66.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img67.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img68.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img69.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_01/reg_img70.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img76.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img77.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img78.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img79.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img80.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img81.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img82.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img83.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img84.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP06_02_02/reg_img85.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img169.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img170.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img171.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img172.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img173.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img174.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img175.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img176.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img177.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP08_02/reg_img178.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img59.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img60.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img61.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img62.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img63.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img64.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img65.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img66.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img67.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP15_01/reg_img68.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub07/EP18_01/reg_img19.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img20.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img21.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img22.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img23.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img24.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img25.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img26.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img27.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_01/reg_img28.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img54.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img55.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img56.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img57.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub07/EP18_03/reg_img58.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img69.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img70.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img74.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img75.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_07f/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img101.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img102.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img103.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img104.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img105.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img106.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img107.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img108.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img109.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP12_08f/reg_img110.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img81.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img82.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img83.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img84.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img85.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img86.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img87.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img88.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img89.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub08/EP13_01f/reg_img90.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img69.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img70.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img71.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img72.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img73.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img74.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img75.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img76.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img77.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP02_01f/reg_img78.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_02/reg_img114.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img115.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img116.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img117.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img118.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img119.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img120.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img121.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img122.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_02/reg_img123.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img111.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img112.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img113.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img114.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img115.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img116.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img117.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img118.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img119.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_03/reg_img120.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP05_05/reg_img79.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img80.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img81.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img82.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img83.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img84.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img85.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img86.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img87.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP05_05/reg_img88.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img139.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img140.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img141.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img142.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img143.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img144.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img145.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img146.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img147.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_01f/reg_img148.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img96.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img97.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img98.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img99.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img100.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img101.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img102.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img103.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img104.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP06_02f/reg_img105.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09_04/reg_img66.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img67.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img68.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img69.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img70.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img71.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img72.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img73.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img74.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_04/reg_img75.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img76.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img77.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img78.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img79.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img80.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img81.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img82.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img83.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img84.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09_05/reg_img85.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP09f/reg_img59.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img60.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img61.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img62.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img63.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img64.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img65.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img66.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img67.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP09f/reg_img68.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP13_01/reg_img69.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img70.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img71.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img72.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img73.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img74.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img75.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img76.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img77.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP13_01/reg_img78.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP15_05/reg_img86.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img87.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img88.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img89.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img90.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img91.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img92.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img93.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img94.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP15_05/reg_img95.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub09/EP17_08/reg_img36.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img37.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img38.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img39.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img40.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img41.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img42.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img43.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img44.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP17_08/reg_img45.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub09/EP18_03/reg_img34.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img35.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img36.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img37.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img38.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img39.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img40.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub09/EP18_03/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img54.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img55.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img56.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img57.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP06_01f/reg_img58.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img109.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img110.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img111.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img112.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img113.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img114.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img115.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img116.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img117.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP08_01f/reg_img118.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img131.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img132.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img133.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img134.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img135.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img136.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img137.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img138.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img139.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP10_01f/reg_img140.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img59.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img60.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img61.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img62.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img63.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img59.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img60.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img61.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img62.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img63.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP11_01f/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img54.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img55.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img56.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img57.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_02f/reg_img58.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img81.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img82.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img83.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_03f/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img96.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img97.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img98.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img99.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img100.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img101.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img102.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img103.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img104.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP12_04/reg_img105.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img104.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img105.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img106.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img107.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img108.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img109.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img110.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img111.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img112.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_02f/reg_img113.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP13_03f/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img59.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img60.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img61.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img62.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img63.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP16_02f/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img39.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img40.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP18_01f/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP19_04f/reg_img81.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP19_04f/reg_img82.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP19_04f/reg_img83.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP19_04f/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP19_04f/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP19_04f/reg_img86.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP19_04f/reg_img87.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub10/EP19_04f/reg_img88.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img91.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img92.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img93.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img94.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img95.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img96.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img97.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img98.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img99.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP02_06f/reg_img100.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img116.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img117.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img118.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img119.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img120.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img121.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img122.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img123.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img124.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP08_01f/reg_img125.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img136.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img137.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img138.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img139.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img140.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img141.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img142.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img143.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img144.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP12_03f/reg_img145.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img109.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img110.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img111.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img112.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img113.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img114.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_02f/reg_img115.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img44.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img45.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img46.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img47.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img48.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img49.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img50.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img51.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img52.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_03f/reg_img53.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img56.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img57.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img58.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img59.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img60.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img61.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img62.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img63.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img64.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP13_05f/reg_img65.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img86.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img87.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img88.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img89.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img90.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img91.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img92.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_01f/reg_img93.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img74.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img75.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP15_04f/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img101.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img102.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img103.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img104.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img105.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img106.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img107.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img108.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img109.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP18_03f/reg_img110.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img89.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img90.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img91.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img92.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img93.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img94.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img95.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img96.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img97.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub11/EP19_03f/reg_img98.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP01_02/reg_img94.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img95.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img96.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img97.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img98.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img99.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img100.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img101.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img102.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP01_02/reg_img103.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP02_05/reg_img56.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img57.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img58.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img59.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img60.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img61.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img62.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img63.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img64.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP02_05/reg_img65.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP03_02/reg_img54.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img55.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img56.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img57.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img58.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img59.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img60.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img61.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img62.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_02/reg_img63.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub12/EP03_04/reg_img124.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img125.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img126.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img127.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img128.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img129.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img130.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img131.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img132.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP03_04/reg_img133.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP04_16/reg_img51.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img52.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img53.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img54.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img55.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img56.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img57.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img58.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img59.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP04_16/reg_img60.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP06_06/reg_img71.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img72.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img73.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img74.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img75.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img76.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img77.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img78.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img79.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP06_06/reg_img80.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img76.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img77.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img78.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img79.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img80.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img81.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img82.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img83.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img84.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_01/reg_img85.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img109.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img110.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img111.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img112.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img113.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img114.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img115.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img116.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img117.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_03/reg_img118.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub12/EP08_07/reg_img129.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img130.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img131.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img132.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img133.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img134.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img135.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img136.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img137.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP08_07/reg_img138.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub12/EP09_02/reg_img54.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img55.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img56.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img57.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img58.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img59.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img60.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img61.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img62.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_02/reg_img63.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_06/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_06/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_06/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_06/reg_img109.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_06/reg_img110.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP09_06/reg_img111.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img184.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img185.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img186.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img187.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img188.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img189.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img190.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img191.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img192.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub12/EP16_02/reg_img193.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub13/EP01_01/reg_img106.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img107.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img108.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img109.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img110.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img111.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img112.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img113.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img114.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_01/reg_img115.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img96.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img97.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img98.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img99.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img100.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img101.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img102.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img103.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img104.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP01_02/reg_img105.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img29.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img30.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img31.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img32.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img33.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img34.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img35.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img36.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img37.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_02/reg_img38.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img54.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img55.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img56.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img57.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img58.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img59.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img60.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img61.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img62.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP02_03/reg_img63.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP03_01/reg_img81.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img82.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img83.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img84.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img85.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img86.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img87.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img88.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img89.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP03_01/reg_img90.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP08_01/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img81.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img82.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img83.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP08_01/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP09_10/reg_img71.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img72.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img73.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img74.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img75.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img76.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img77.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img78.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img79.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP09_10/reg_img80.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub13/EP12_01/reg_img36.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img37.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img38.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img39.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img40.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub13/EP12_01/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img39.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img40.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img41.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img42.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img43.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP04_04f/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub14/EP09_03/reg_img24.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img25.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img26.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img27.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img28.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img29.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img30.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img31.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img32.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_03/reg_img33.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img66.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img67.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img68.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img69.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img70.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img71.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img72.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img73.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img74.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_04/reg_img75.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img54.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img55.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img56.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img57.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img58.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img59.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img60.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img61.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img62.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub14/EP09_06/reg_img63.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img44.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img45.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img46.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img47.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img48.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img49.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img50.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img51.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img52.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP03_02/reg_img53.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub15/EP04_02/reg_img41.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img42.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img43.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img44.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img45.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img46.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img47.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img48.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img49.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP04_02/reg_img50.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub15/EP08_02/reg_img49.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img50.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img51.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img52.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img53.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img54.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img55.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img56.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img57.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub15/EP08_02/reg_img58.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub16/EP01_05/reg_img101.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img102.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img103.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img104.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img105.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img106.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img107.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img108.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img109.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_05/reg_img110.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP01_08/reg_img89.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img90.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img91.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img92.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img93.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img94.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img95.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img96.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img97.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_08/reg_img98.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img74.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img75.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP01_09f/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub16/EP04_02f/reg_img264.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP04_02f/reg_img265.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP04_02f/reg_img266.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP04_02f/reg_img267.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP04_02f/reg_img268.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP04_02f/reg_img269.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP04_02f/reg_img270.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub16/EP04_02f/reg_img271.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img81.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img82.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img83.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img84.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img85.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img86.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img87.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img88.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img89.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_06/reg_img90.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_13/reg_img129.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img130.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img131.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img132.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img133.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img134.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img135.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img136.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img137.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_13/reg_img138.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub17/EP01_15/reg_img96.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img97.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img98.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img99.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img100.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img101.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img102.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img103.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img104.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP01_15/reg_img105.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP02_01/reg_img114.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img115.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img116.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img117.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img118.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img119.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img120.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img121.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img122.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_01/reg_img123.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img104.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img105.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img109.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img110.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img111.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img112.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_03/reg_img113.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img176.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img177.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img178.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img179.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img180.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img181.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img182.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img183.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img184.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_11/reg_img185.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img129.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img130.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img131.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img132.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img133.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img134.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img135.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img136.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img137.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP02_18f/reg_img138.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP03_02/reg_img134.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img135.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img136.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img137.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img138.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img139.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img140.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img141.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img142.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_02/reg_img143.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP03_09/reg_img127.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img128.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img129.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img130.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img131.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img132.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img133.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img134.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img135.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP03_09/reg_img136.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img86.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img87.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img88.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img89.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img90.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img91.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img92.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img93.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img94.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_02/reg_img95.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img51.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img52.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img53.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img54.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img55.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img56.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img57.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img58.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img59.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03/reg_img60.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img54.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img55.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img56.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img57.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img58.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img59.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img60.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img61.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img62.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_03f/reg_img63.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img34.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img35.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img36.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img37.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img38.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img39.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img40.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img41.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img42.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_04/reg_img43.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img139.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img140.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img141.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img142.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img143.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img144.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img145.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img146.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img147.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_09/reg_img148.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img124.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img125.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img126.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img127.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img128.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img129.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img130.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img131.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img132.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP05_10/reg_img133.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_04/reg_img86.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img87.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img88.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img89.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img90.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img91.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img92.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img93.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img94.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_04/reg_img95.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP06_07/reg_img220.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img221.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img222.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img223.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img224.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img225.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img226.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img227.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img228.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_07/reg_img229.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP06_08/reg_img189.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img190.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img191.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img192.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img193.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img194.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img195.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img196.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img197.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP06_08/reg_img198.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP07_01/reg_img66.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img67.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img68.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img69.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img70.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img71.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img72.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img73.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img74.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP07_01/reg_img75.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img61.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img62.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img63.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img64.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img65.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img66.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img67.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img68.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img69.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_02/reg_img70.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP08_03/reg_img64.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img65.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img66.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img67.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img68.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img69.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img70.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP08_03/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP10_06/reg_img116.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img117.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img118.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img119.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img120.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img121.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img122.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img123.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img124.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP10_06/reg_img125.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP11_01/reg_img26.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img27.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img28.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img29.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img30.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img31.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img32.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img33.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img34.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_01/reg_img35.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img76.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img77.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img78.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img79.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img80.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img81.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img82.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img83.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img84.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP11_02/reg_img85.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP12_03/reg_img151.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img152.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img153.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img154.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img155.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img156.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img157.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img158.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img159.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP12_03/reg_img160.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP13_01/reg_img159.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img160.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img161.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img162.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img163.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img164.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img165.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img166.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img167.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_01/reg_img168.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP13_03/reg_img74.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img75.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img76.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img77.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img78.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img79.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img80.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img81.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img82.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_03/reg_img83.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img99.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img100.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img101.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img102.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img103.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img104.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img105.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_04/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img104.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img105.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img109.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img110.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img111.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img112.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_06/reg_img113.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP13_09/reg_img41.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img42.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img43.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img44.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img45.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img46.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img47.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img48.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img49.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP13_09/reg_img50.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub17/EP15_04/reg_img126.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img127.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img128.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img129.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img130.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img131.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img132.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img133.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img134.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_04/reg_img135.jpg",
+        "label": 2
+    },
+    {
+        "path": "sub17/EP15_05/reg_img44.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img45.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img46.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img47.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img48.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img49.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img50.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img51.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img52.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP15_05/reg_img53.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img24.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img25.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img26.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img27.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img28.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img29.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img30.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img31.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img32.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP16_01f/reg_img33.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img64.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img65.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img66.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img67.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img68.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img69.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img70.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img71.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img72.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub17/EP18_07/reg_img73.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub18/EP08_01/reg_img134.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img135.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img136.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img137.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img138.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img139.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img140.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img141.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img142.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP08_01/reg_img143.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img86.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img87.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img88.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img89.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img90.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img91.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img92.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img93.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img94.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP18_01/reg_img95.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img116.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img117.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img118.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img119.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img120.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img121.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img122.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img123.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img124.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub18/EP19_01/reg_img125.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img184.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img185.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img186.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img187.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img188.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img189.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img190.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img191.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img192.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_01f/reg_img193.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img56.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img57.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img58.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img59.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img60.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img61.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img62.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img63.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img64.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP01_02f/reg_img65.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP02_01/reg_img114.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img115.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img116.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img117.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img118.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img119.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img120.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img121.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img122.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP02_01/reg_img123.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img169.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img170.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img171.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img172.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img173.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img174.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img175.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img176.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img177.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_01f/reg_img178.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img259.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img260.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img261.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img262.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img263.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img264.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img265.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img266.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img267.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP06_02f/reg_img268.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP08_02/reg_img114.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img115.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img116.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img117.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img118.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img119.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img120.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img121.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img122.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP08_02/reg_img123.jpg",
+        "label": 0
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img81.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img82.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img83.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_01f/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img91.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img92.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img93.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img94.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img95.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img96.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img97.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img98.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img99.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP11_04f/reg_img100.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP13_01/reg_img99.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img100.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img101.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img102.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img103.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img104.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img105.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP13_01/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img79.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img80.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img81.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img82.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img83.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP15_03f/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP16_01/reg_img104.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img105.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img106.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img107.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img108.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img109.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img110.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img111.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img112.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_01/reg_img113.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img74.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img75.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img76.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img77.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img78.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img79.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img80.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img81.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img82.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP16_02/reg_img83.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub19/EP19_01/reg_img81.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img82.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img83.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img84.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img85.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img86.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img87.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img88.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img89.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_01/reg_img90.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub19/EP19_02/reg_img124.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img125.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img126.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img127.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img128.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img129.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img130.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img131.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img132.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_02/reg_img133.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img86.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img87.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img88.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img89.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img90.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img91.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img92.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img93.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img94.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub19/EP19_03/reg_img95.jpg",
+        "label": 3
+    },
+    {
+        "path": "sub20/EP01_03/reg_img96.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img97.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img98.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img99.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img100.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img101.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img102.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img103.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img104.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP01_03/reg_img105.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP03_02/reg_img69.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img70.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img71.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img72.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img73.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img74.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img75.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img76.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img77.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP03_02/reg_img78.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP06_03/reg_img44.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img45.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img46.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img47.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img48.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img49.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img50.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img51.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img52.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP06_03/reg_img53.jpg",
+        "label": 1
+    },
+    {
+        "path": "sub20/EP07_04/reg_img111.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img112.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img113.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img114.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img115.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img116.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img117.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img118.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img119.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP07_04/reg_img120.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img161.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img162.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img163.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img164.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img165.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img166.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img167.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img168.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img169.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP10_02/reg_img170.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP12_01/reg_img99.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP12_01/reg_img100.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP12_01/reg_img101.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP12_01/reg_img102.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP12_01/reg_img103.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP12_01/reg_img104.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP12_01/reg_img105.jpg",
+        "label": 4
+    },
+    {
+        "path": "sub20/EP12_01/reg_img106.jpg",
+        "label": 4
+    }
+]

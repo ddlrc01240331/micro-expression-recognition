@@ -2,7 +2,13 @@ import argparse
 
 def opt_parse():
     parser = argparse.ArgumentParser(description='PyTorch Micro Expression Recognition')
-
+    # basic setting
+    parser.add_argument('--label_map_trn', dest='label_map_trn', default='data/auxiliary/single_img_train.json', type=str, metavar='PATH',
+                        help='File that contains label of each img for training')
+    parser.add_argument('--label_map_tst', dest='label_map_tst', default='data/auxiliary/single_img_test.json', type=str, metavar='PATH',
+                        help='File that contains label of each img for testing')
+    parser.add_argument('--img_root', dest='img_root', default='../dataset/raw_imgs', type=str, metavar='PATH',
+                        help='the img root dir')
     # Training strategy
     parser.add_argument('-j', '--workers', default=4, type=int, metavar='N',
                         help='number of data loading workers (default: 4)')
@@ -25,13 +31,14 @@ def opt_parse():
     parser.add_argument('--gamma', type=float, default=0.1,
                         help='LR is multiplied by gamma on schedule.')
     # Data processing
+    parser.add_argument('-r', '--resize', dest='resize', type=int, default=128, help='resize img width to fixed shape')
     parser.add_argument('-f', '--flip', dest='flip', action='store_true',
                         help='flip the input during validation')
     parser.add_argument('--sigma', type=float, default=1,
                         help='Gaussian sigma for mask')
     # Miscs
     parser.add_argument('-d', '--save_dir', default='checkpoint', type=str, metavar='PATH', help='path to save midterm parameters of model')
-    parser.add_argument('--resume_epoch', default='', type=str, metavar='PATH',
+    parser.add_argument('--resume_epoch', default='None', type=str, metavar='PATH',
                         help='path to epoch to be resumed, if set to latest, resume latest model saved')
     parser.add_argument('-e', '--evaluate', dest='evaluate', action='store_true',
                         help='evaluate model on validation set')

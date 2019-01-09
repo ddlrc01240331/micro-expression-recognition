@@ -10,9 +10,11 @@ class BaselineModel(BaseModel):
         super().__init__(opt)
         self.model = Resnet50()
         self.optimizer = optim.Adam(self.model.parameters(), lr=opt.lr, momentum=opt.momentum)
+        self.scheduler = optim.lr_scheduler.MultiStepLR(self.optimizer, opt.schedule, opt.gamma)
+        if opt.resume_epoch != 'None':
+            self.resume(opt.resume_epoch)
         self.init_cuda()
         self.criterion = NF.cross_entropy
-        self.scheduler = optim.lr_scheduler.MultiStepLR(self.optimizer, opt.schedule, opt.gamma)
 
     def set_input(self, data):
         self.x = data['img'].cuda()
@@ -23,15 +25,18 @@ class BaselineModel(BaseModel):
         self.pred = self.model(self.x)
 
     def backward(self):
-        loss = self.criterion(self.pred, self.label)
+        self.loss = self.criterion(self.pred, self.label)
         self.optimizer.zero_grad()
-        loss.backward()
+        self.loss.backward()
         self.optimizer.step()
 
-    def run_one_bactch(self, data):
+    def run_one_batch(self, data):
         self.scheduler.step()
         self.set_input(data)
         self.forward()
         if self.isTrain:
             self.backward()
         return self.pred
+
+    def get_current_loss(self):
+        return self.loss

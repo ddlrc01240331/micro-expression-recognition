@@ -51,10 +51,12 @@ def process_csv_data(csv_name):
     _df.columns = df.loc[0].values
     return _df
 
-def make_img_dataset(json_file, num=10, target_dir='imgs'):
-    _label = []
+def make_img_dataset(json_file, test_num=55, num=10, target_dir='imgs'):
+    _label_train = []
+    _label_test = []
     data = json.load(open(json_file))
-    for d in data:
+    length = len(data)
+    for i, d in enumerate(data):
         if not any(x == d['label'] for x in map_label.keys()):
             continue
         imgs = select_adjacent_apex_frame(d, adjacent_frames_num=num)
@@ -63,10 +65,26 @@ def make_img_dataset(json_file, num=10, target_dir='imgs'):
                 'path': img,
                 'label': map_label[d['label']]
             }
-            _label.append(tmp)
+            if i < length-test_num:
+                _label_train.append(tmp)
+            else:
+                _label_test.append(tmp)
     # print(_label)
-    print(len(_label))
-    json.dump(_label, open(os.path.join('auxiliary', 'single_img.json'), 'w'), indent=4)
+    print(len(_label_train))
+    print(len(_label_test))
+    json.dump(_label_train, open(os.path.join('auxiliary', 'single_img_train.json'), 'w'), indent=4)
+    json.dump(_label_test, open(os.path.join('auxiliary', 'single_img_test.json'), 'w'), indent=4)
 
+def caculate_label(json_file):
+    data = json.load(open(json_file))
+    ans = {}
+    for key in map_label.values():
+        ans[key] = 0
+    for d in data:
+        label = d['label']
+        ans[label] += 1
+    print(ans)
 
-# make_img_dataset('auxiliary/baseinfo.json')
+make_img_dataset('auxiliary/baseinfo.json')
+caculate_label('auxiliary/single_img_train.json')
+caculate_label('auxiliary/single_img_test.json')
