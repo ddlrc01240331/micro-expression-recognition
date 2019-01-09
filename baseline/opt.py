@@ -3,6 +3,7 @@ import argparse
 def opt_parse():
     parser = argparse.ArgumentParser(description='PyTorch Micro Expression Recognition')
     # basic setting
+    parser.add_argument('--isTrain', dest='isTrain', action='store_true', default=True, help='If training the model')
     parser.add_argument('--label_map_trn', dest='label_map_trn', default='data/auxiliary/single_img_train.json', type=str, metavar='PATH',
                         help='File that contains label of each img for training')
     parser.add_argument('--label_map_tst', dest='label_map_tst', default='data/auxiliary/single_img_test.json', type=str, metavar='PATH',

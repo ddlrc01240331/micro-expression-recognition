@@ -1,7 +1,9 @@
-import os, json
+import os, sys, json
+sys.path.insert(0, '../')
 from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms, utils
 import torchvision.transforms.functional as TF
+from utils.ImgUtils import show_landmarks
 from PIL import Image
 
 class SingleImgDataset(Dataset):
@@ -16,7 +18,7 @@ class SingleImgDataset(Dataset):
         record = self.data[idx]
         path = os.path.join(self.root_dir, record['path'])
         img = Image.open(path)
-        print(type(self.transform))
+        # print(type(self.transform))
         img = self.transform(img)
         label = record['label']
         return {'img': img, "label": label, 'path': path}
@@ -39,13 +41,13 @@ def SingleImgDataLoader(opt, isTrain=None):
     if isTrain is None:
         isTrain = opt.isTrain
     label_map = opt.label_map_trn if isTrain else opt.label_map_tst
-    dataset = SingleImgDataset(label_map, opt.root_dir, opt.isTrian, opt)
+    dataset = SingleImgDataset(label_map, opt.img_root, opt)
     batch_size = opt.train_batch if isTrain else opt.test_batch
     dataloader = DataLoader(
         dataset,
         batch_size=batch_size,
         num_workers=opt.workers,
-        pin_memory=True,
+        pin_memory=False,
         shuffle=isTrain,
     )
     return dataloader

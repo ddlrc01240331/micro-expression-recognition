@@ -1,5 +1,5 @@
-from resnet import Resnet50
-from base_model import BaseModel
+from .resnet import resnet50
+from .base_model import BaseModel
 import torch.optim as optim
 import torch.nn.functional as NF
 
@@ -8,8 +8,8 @@ class BaselineModel(BaseModel):
 
     def __init__(self, opt):
         super().__init__(opt)
-        self.model = Resnet50()
-        self.optimizer = optim.Adam(self.model.parameters(), lr=opt.lr, momentum=opt.momentum)
+        self.model = resnet50()
+        self.optimizer = optim.Adam(self.model.parameters(), lr=opt.lr, betas=(opt.momentum, 0.999))
         self.scheduler = optim.lr_scheduler.MultiStepLR(self.optimizer, opt.schedule, opt.gamma)
         if opt.resume_epoch != 'None':
             self.resume(opt.resume_epoch)

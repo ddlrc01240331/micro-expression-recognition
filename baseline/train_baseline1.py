@@ -2,7 +2,7 @@ import torch
 from data.single_img_dataset import SingleImgDataLoader
 from model.baseline_model import BaselineModel
 from opt import opt_parse
-from sklearn.mertircs import accuracy_score, recall_score, f1_score, confusion_matrix
+from sklearn.metrics import accuracy_score, recall_score, f1_score, confusion_matrix
 import time
 
 def eval_on_metric(pred, label, isTrain=True):
@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
     for epoch in range(opt.start_epoch, opt.epochs):
         model.train()
-        print("Epoch: {} Start")
+        print("Epoch {} Start".format(epoch))
         total_pred = []
         total_label = []
         cur_step = 0

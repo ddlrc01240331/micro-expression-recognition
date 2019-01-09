@@ -85,6 +85,6 @@ def caculate_label(json_file):
         ans[label] += 1
     print(ans)
 
-make_img_dataset('auxiliary/baseinfo.json')
-caculate_label('auxiliary/single_img_train.json')
-caculate_label('auxiliary/single_img_test.json')
+# make_img_dataset('auxiliary/baseinfo.json')
+# caculate_label('auxiliary/single_img_train.json')
+# caculate_label('auxiliary/single_img_test.json')
